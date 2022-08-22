@@ -1,0 +1,12 @@
+button{
+    background-color:lightpink;
+    height: auto;
+    width:250px;
+
+}
+h1{
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 200px;
+    text-align: center;
+}
